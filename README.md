@@ -7,9 +7,9 @@ I am a passionate, full-stack software engineer who believes in utilizing a user
 
 <a href="https://www.linkedin.com/in/zurilyons/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+<a href="mailto:zuri22780@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+<a href="https://twitter.com/zurilyons"><img src="https://img.shields.io/badge/zurilyons-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
 
 ---
 ## Proficiencies:
