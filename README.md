@@ -12,7 +12,8 @@ I am a passionate, full-stack software engineer who believes in utilizing a user
 <a href="https://twitter.com/zurilyons"><img src="https://img.shields.io/badge/zurilyons-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
   </div>
 
-<hr>
+---
+
 ## Top Languages:
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zee22780)](https://github.com/Zee22780/github-readme-stats)
