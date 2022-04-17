@@ -16,7 +16,7 @@ I am a passionate, full-stack software engineer who believes in utilizing a user
 
 ## Top Languages:
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zee22780)](https://github.com/Zee22780/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zee22780)](https://github.com/Zee22780/)
 
 <hr>
 
