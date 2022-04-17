@@ -6,16 +6,16 @@ I am a passionate, full-stack software engineer who believes in utilizing a user
 
 ---
 ## Reach out!
-
+  <div>
 <a href="https://www.linkedin.com/in/zurilyons/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 
 <a href="mailto:zuri22780@gmai.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
 
 <a href="https://twitter.com/zurilyons"><img src="https://img.shields.io/badge/zurilyons-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" /> </a>
-
+  </div>
 ---
 ## Proficiencies:
-
+  <div>
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -49,5 +49,5 @@ I am a passionate, full-stack software engineer who believes in utilizing a user
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+  </div>
 </div>
