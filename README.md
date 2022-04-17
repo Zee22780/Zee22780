@@ -1,3 +1,5 @@
+<div align="center">
+
 ## A little about me:
 
 I am a passionate, full-stack software engineer who believes in utilizing a user-focused approach to building impactful applications to solve problems. I’m adept at utilizing  programming languages and platforms such as React, Javascript, Python, Flask, Express, Node to build solutions.  This coupled with my experience in HR and Change Management, I bring to the table a passion for efficient and effective problem-solving, insightful data analysis, and exceptional leadership and project management skills. 
@@ -47,3 +49,5 @@ I am a passionate, full-stack software engineer who believes in utilizing a user
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+
+</div>
