@@ -2,7 +2,7 @@
 
 ## A little about me:
 
-I am a passionate full-stack software engineer dedicated to creating impactful applications through a user-focused approach. Proficient in a range of programming languages, libraries, and frameworks—including React, JavaScript, TypeScript, Python, Flask, Express, and Node—I develop solutions that address real-world challenges.
+I am a passionate full-stack software engineer dedicated to creating impactful applications through a user-focused approach. Hands-on AI experience and proficient in a range of programming languages, libraries, and frameworks—including React, JavaScript, TypeScript, Python, Flask, Express, and Node. I develop solutions that address real-world challenges.
 
 Complementing my technical expertise is a background in HR and Change Management, which has honed my problem-solving abilities, leadership skills, and talent for building strong professional relationships. I thrive on delivering efficient and effective solutions that make a difference.
 
