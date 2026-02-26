@@ -4,11 +4,11 @@
 
 Full-stack engineer building thoughtful, AI-powered tools.
 
-I work primarily with React, TypeScript, Node, and Python, and I enjoy designing systems that feel clean, intuitive, and genuinely useful. Lately I’ve been exploring retrieval systems, evaluation frameworks, and practical AI applications that solve real world problems.
+I work primarily with React, TypeScript, Python, Postgres, Express, and Node. I enjoy designing systems that feel clean, intuitive, fun, and genuinely useful. Lately I’ve been exploring RAG implementation strategies and practical AI applications that solve real world problems.
 
-Before tech, I worked in senior HR leadership and studied Org Change Management at The New School where I earned my Masters degree. All that to say I think a lot about users, adoption, and how humans interact with software.
+Before tech, I worked in senior HR leadership and studied Org Change Management at The New School where I earned my Masters degree. All that to say I think a lot about users, adoption, and how humans interact with software 😆.
 
-I love building things that are both technically sound and human-centered.
+❤️ I love building things that are both technically sound and human-centered.
 
 ---
 
