@@ -1,13 +1,19 @@
 <div align="center">
 
-## A little about me:
+## Hi, I’m Z 👩🏽‍💻
 
-I am a passionate full-stack software engineer dedicated to creating impactful applications through a user-focused approach. Hands-on AI experience and proficient in a range of programming languages, libraries, and frameworks—including React, JavaScript, TypeScript, Python, Flask, Express, and Node. I develop solutions that address real-world challenges.
+Full-stack engineer building thoughtful, AI-powered tools.
 
-Complementing my technical expertise is a background in HR and Change Management, which has honed my problem-solving abilities, leadership skills, and talent for building strong professional relationships. I thrive on delivering efficient and effective solutions that make a difference.
+I work primarily with React, TypeScript, Node, and Python, and I enjoy designing systems that feel clean, intuitive, and genuinely useful. Lately I’ve been exploring retrieval systems, evaluation frameworks, and practical AI applications that solve real world problems.
+
+Before tech, I worked in senior HR leadership and studied Org Change Management at The New School where I earned my Masters degree. All that to say I think a lot about users, adoption, and how humans interact with software.
+
+I love building things that are both technically sound and human-centered.
 
 ---
+
 ## Reach out!
+
   <div>
 <a href="https://www.linkedin.com/in/zurilyons/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
 <a href="mailto:zuri22780@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
