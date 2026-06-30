@@ -3,7 +3,7 @@
 ## Hi, I’m Z 👩🏽‍💻
 
 <a href="https://github.com/Zee22780">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=Full-stack+AI+Engineer;Building+advanced+RAG+systems;Agent+systems+that+work+with+humans;Clean%2C+intuitive%2C+genuinely+useful" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=D97757&center=true&vCenter=true&width=600&lines=Full-Stack+AI+Engineer;Building+advanced+RAG+systems;Agent+systems+that+work+with+humans;Clean%2C+intuitive%2C+genuinely+useful" alt="Typing SVG" />
 </a>
 
 I primarily build advanced RAG solutions and agent systems designed to work with humans. Therefore, my experience includes building UI with React, TypeScript, Python, Postgres, Express, and Node.  I build practical AI applications that solve real-world problems. I enjoy designing systems that feel clean, intuitive, fun, and most of all genuinely useful. 
