@@ -2,9 +2,9 @@
 
 ## Hi, I’m Z 👩🏽‍💻
 
-Full-stack engineer building thoughtful, AI-powered tools.
+Full-stack AI Engineer building thoughtful, AI-powered tools.
 
-I work primarily with React, TypeScript, Python, Postgres, Express, and Node. I'm experienced in building RAG applications and NLP powered experiences. I build practical AI applications that solve real-world problems. I enjoy designing systems that feel clean, intuitive, fun, and genuinely useful. 
+I primarily build advanced RAG solutions and agent systems designed to work with humans. Therefore, my experience includes building UI with React, TypeScript, Python, Postgres, Express, and Node.  I build practical AI applications that solve real-world problems. I enjoy designing systems that feel clean, intuitive, fun, and most of all genuinely useful. 
 
 Before tech, I worked in senior HR leadership and studied Org Change Management at The New School where I earned my Masters degree. All that to say I think a lot about users, adoption, and how humans interact with software 😆.
 
@@ -25,7 +25,11 @@ Before tech, I worked in senior HR leadership and studied Org Change Management 
 ## Proficiencies:
 
 <div>
-
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -44,6 +48,7 @@ Before tech, I worked in senior HR leadership and studied Org Change Management 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
   </div>
 </div>
